@@ -14,3 +14,7 @@ Execute by: **python3 student.py --data Gauss3.csv --eta 0.2 --iterations 2**
 
 ## Output
 ![OP3](https://github.com/ranjiGT/SigmoidNNets/blob/main/op3.png)
+
+## Bonus
+
+[![Watch the video](https://img.youtube.com/vi/Jo22NeTIDKU/maxresdefault.jpg)](https://youtu.be/Jo22NeTIDKU)
