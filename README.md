@@ -1,4 +1,4 @@
-# `Sigmoid Neural Networks`
+# `Sigmoid Neural Networks` ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 A simple sigmoid activation function-based neural network using the delta rule.
 
 Your program must at least accept the following parameters:
