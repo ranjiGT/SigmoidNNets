@@ -6,7 +6,7 @@ Your program must at least accept the following parameters:
 -  **eta** - The learning rate for the backpropagation.
 -  **iterations** - The number of iterations to calculate
 
-Execute by: **python3 student.py --data Gauss3.csv --eta 0.2 --iterations 2**
+Execute by: `python3 student.py --data Gauss3.csv --eta 0.2 --iterations 2`
 
 ## Math path
 
@@ -18,3 +18,7 @@ Execute by: **python3 student.py --data Gauss3.csv --eta 0.2 --iterations 2**
 ## Bonus
 
 [![Watch the video](https://img.youtube.com/vi/Jo22NeTIDKU/maxresdefault.jpg)](https://youtu.be/Jo22NeTIDKU)
+
+## Run Dockerfile
+
+`docker run -it python-nnet-minidocker:1.0 python3 NeuralNets.py --data Gauss3.csv --eta 0.2 --iterations 2`
